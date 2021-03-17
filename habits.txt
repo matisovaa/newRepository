@@ -7,3 +7,7 @@ robit nejake cvicenia/prestavky, mat dostatok spanku a pit dostatok tekutin.
 na dlhy cas na nejakej nepodstatnej drobnosti. Je dobre si skusat nejaku 
 novu funkcionalitu ale malo by to viest k necomu pouzitelnemu.
     - Suhlasim, ze je dobre vyuzivat cas efektivne.
+3.) je dobre mat kod jednoduchy a konzistentny, dobre citatelny, 
+na to ako nieco naprogramovat je vela roznych sposobov. 
+    - nie je umenie robit write-only code ale je umenie robit 
+    kod prehladny a dobre udrzatelny pre seba aj ostatnych.
