@@ -11,3 +11,8 @@ novu funkcionalitu ale malo by to viest k necomu pouzitelnemu.
 na to ako nieco naprogramovat je vela roznych sposobov. 
     - nie je umenie robit write-only code ale je umenie robit 
     kod prehladny a dobre udrzatelny pre seba aj ostatnych.
+4.) mat konzistentny sposob ako sa dostat do stavu kedy 
+je clovek najproduktivnejsi - plne sa sustredi na programovanie 
+a strati prehlad o case. Treba aby cloveka vtedy casto neprerusovali.
+    - Suhlasim ze je to produktivny sposob programovania, 
+    plne sa sustredit na to co clovek robi.
