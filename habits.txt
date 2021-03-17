@@ -25,4 +25,6 @@ iny mozu mat dobre napady ktore nas rychlejsie posuvaju vpred.
 Je to timova praca.
     - Suhlasim ked clovek spolupracuje s inymi tak praca 
     aj ucenie ide efektivnejsie
-
+7.) programovanie je praca pri ktorej je clovek dost vela casu sam.
+    - trochu mi to pride v rozpore s 6.) lebo treba komunikovat vramci timu,
+    ale je pravda, ze potom kazdy robi na nejakom svojom tasku nejaku dobu sam.
